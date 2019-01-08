@@ -1,0 +1,83 @@
+img {
+position: absolute;
+}
+input {
+position: absolute;
+
+}
+body {
+background-color: skyblue;
+}
+select {
+position: absolute;
+}
+div {
+position: absolute;
+}
+table {
+position: absolute;
+position: absolute;
+border-style: double;
+border-color: black;
+border-width: 3;
+color: orange;
+font-size:large;
+
+background-color: blue;
+}
+input {
+transform: scale(2);
+}
+footer {
+position: absolute;
+background-color: skyblue;
+    
+}
+#minsk {
+
+position: absolute;
+font-size: large;
+color: yellow;
+}
+#mobile {
+    
+position: absolute;
+font-size: large;
+color: yellow;
+}
+#mobile:hover {
+    
+text-decoration: underline;
+}
+.button:hover{
+opacity: 0.5;
+}
+td {
+border-style: solid;
+border-color: black;
+border-width: 2;
+width: 20%;
+height: 12.5%;
+text-align: center;
+}
+.buttont {
+color: white;
+font-size: x-large;
+}
+form {
+position: absolute;
+}
+.button {
+border-style: double;
+border-color: rgb(68, 0, 255);
+background-color: rgb(0, 110, 255);
+text-align: center;
+}
+#button {
+border-color: rgb(255, 0, 0);
+background-color: rgb(255, 72, 0);
+}
+#block {
+background-color: blue;
+text-align: unset;
+}

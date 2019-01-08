@@ -1,0 +1,110 @@
+
+svg {
+position: absolute;
+}
+table{
+
+
+position: absolute;
+font-size: medium;
+
+border-style: double;
+border-top: none;
+}
+footer {
+position: absolute;
+background-color: skyblue;
+    
+}
+.buttont {
+color: white;
+font-size: x-large;
+text-align: center;
+font-weight: unset;
+}
+#minsk {
+
+position: absolute;
+font-size: large;
+color: yellow;
+}
+#mobile {
+    
+position: absolute;
+font-size: large;
+color: yellow;
+}
+#mobile:hover {
+    
+text-decoration: underline;
+}
+#head {
+background-color: white;
+}
+.expres {
+background-color: brown;
+}
+.electr {
+background-color: darkorange;    
+}
+td {
+    border: 1px solid white;
+}
+tr {
+    border: 2px solid white;
+}
+.button {
+border-style: double;
+border-color: rgb(68, 0, 255);
+background-color: rgb(0, 110, 255);
+position: absolute;
+text-align: center;
+color: white;
+}
+.button:hover{
+opacity: 0.5;
+}
+body {
+background-color: skyblue;
+}
+#button {
+border-color: rgb(255, 0, 0);
+background-color: rgb(255, 72, 0);
+}
+#text{
+position: absolute;
+border-style: double;
+}
+div{
+position: absolute;
+
+}
+
+.bus{
+background-color: red;
+color: yellow;
+text-align: center;
+}
+.trol {
+background-color: blue; 
+color: yellow;  
+text-align: center; 
+}
+.tram {
+background-color: green; 
+color: yellow;  
+text-align: center;    
+}
+table.trol{
+display: none;
+}
+table.tram{
+display: none;
+}
+
+div.trol{
+background-color: darkblue;
+}
+div.tram{
+background-color: darkgreen;
+}
